@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i modified
+=======
+other modified
+>>>>>>> 56d9b227d7c479c42d8ceda8e10c0a135fe77ac6
